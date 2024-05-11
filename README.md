@@ -1,1 +1,1 @@
-# osu_ai_pytorch
+# osu-standard-ai
